@@ -1,6 +1,12 @@
 .flex{
     display: flex;
 }
+html , body{
+    height: 100%;
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 /*Main styles*/
 .header-container{
     height: 50px;
